@@ -1,0 +1,6 @@
+Teatru 	-> rezervare locuri la teatru
+		    -> biletele se pot pune in vanzare mai repede de o saptamna
+		    -> un buton care arata data la care se tine un anumit spectacol
+		    -> o imagine cu locurile din sala din care se poate selecta locurile disponibile 
+		    -> dupa selectarea locurilor sa apese pe un buton si sa rezerve
+        -> posibilitatea de a putea sa sterga rezervarea facuta
