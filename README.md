@@ -1,5 +1,7 @@
 # Theater Management System 
 
+This application deals with the management of seats in a theater. The terminal that connects the application and the user displays the available seats, their price and status (whether free or reserved.) The user can enter personal data, can select one or more seats and reserve them.
+
 ## Requirements 
 ### English
 -> A theater provides spectators with a system for reserving seats at the show. <br>
